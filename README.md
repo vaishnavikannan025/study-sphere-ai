@@ -1,4 +1,37 @@
-# Backend - Study Sphere AI API Server
+ # Study Sphere AI 🚀
+
+## AI-Powered Personalized Learning Platform
+
+Study Sphere AI is a full-stack AI-based student learning platform designed to help students organize their studies, manage learning resources, track progress, and receive intelligent study assistance.
+
+## Features
+
+- 🔐 Secure User Authentication
+- 🤖 AI Learning Assistant
+- 📚 Notes Management
+- 📝 Study Planner
+- 🧠 Quiz System
+- 📊 Personalized Learning Support
+
+## Technology Stack
+
+Frontend:
+React.js | HTML | CSS | JavaScript
+
+Backend:
+Node.js | Express.js
+
+Database:
+PostgreSQL | pgAdmin
+
+Security:
+JWT Authentication | bcrypt
+
+Testing:
+Postman
+
+Tools:
+VS Code | GitHub | AI Integration# Backend - Study Sphere AI API Server
 
 The backend application server is built using **Python + FastAPI**, serving RESTful and SSE (streaming) endpoints.
 
